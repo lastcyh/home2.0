@@ -1,22 +1,12 @@
 {
   "about": [
     {
-      "author": "imsyy",
-      "home": "https://imsyy.top",
-      "homeName": "無名の主页",
-      "project": "home",
-      "version": "4.1.4",
-      "github": "https://github.com/imsyy/home",
-      "logo": "\n _____ __  __  _______     ____     __\n|_   _|  \\/  |/ ____\\ \\   / /\\ \\   / /\n  | | | \\  / | (___  \\ \\_/ /  \\ \\_/ /\n  | | | |\\/| |\\___ \\  \\   /    \\   /\n _| |_| |  | |____) |  | |      | |\n|_____|_|  |_|_____/   |_|      |_|"
-    },
-    {
-      "author": "李宗霖",
-      "home": "https://imlzl.cn",
-      "homeName": "李宗霖的主页",
-      "project": "home",
-      "version": "1.1.3",
-      "github": "https://github.com/supine0703/home",
-      "logo": "\n _____   __   __  __ _     _____ _\n|_   _| /  \\ |  \\/  | |   |___  | |\n  | |  / /\\ \\| \\  / | |      / /| |\n  | | | |__| | |\\/| | |     / / | |\n _| |_|  __  | |  | | |___ / /__| |___\n|_____|_|  |_|_|  |_|_____|_____|_____|"
+      "author": "",
+      "home": "",
+      "homeName": "",
+      "project": "",
+      "version": "",
+      "github": "",
+      "logo": ""
     }
-  ]
 }

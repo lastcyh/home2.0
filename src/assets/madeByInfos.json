@@ -1,13 +1,13 @@
 {
   "about": [
     {
-      "author": "",
-      "home": "",
-      "homeName": "",
-      "project": "",
-      "version": "",
-      "github": "",
-      "logo": ""
+      "author": "lastcyh",
+      "home": "https://imlzl.cn",
+      "homeName": "lastcyh的主页",
+      "project": "home",
+      "version": "1.0",
+      "github": "https://github.com/lastcyh",
+      "logo": "\n _____   __   __  __ _     _____ _\n|_   _| /  \\ |  \\/  | |   |___  | |\n  | |  / /\\ \\| \\  / | |      / /| |\n  | | | |__| | |\\/| | |     / / | |\n _| |_|  __  | |  | | |___ / /__| |___\n|_____|_|  |_|_|  |_|_____|_____|_____|"
     }
   ]
-  }
+}
